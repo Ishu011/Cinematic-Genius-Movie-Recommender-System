@@ -14,7 +14,7 @@ In addition to its robust recommendation capabilities, Cinematic Genius includes
 - **Responsive UI**: A user-friendly interface built with Streamlit, enabling easy interaction and exploration of movie recommendations.
 
 - 
-- **c) Appearance Customization**:
+- **c) Appearance Customization**
 - 
   - **Background Color**: Users can change the primary and secondary background colors to suit their preferences.
   - **Text Color**: Customizable text color for better readability or aesthetic appeal.
